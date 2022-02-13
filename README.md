@@ -154,7 +154,6 @@ Rotate the video the viewController must implement
 
 ZFPlayer is available under the MIT license. See the LICENSE file for more info.
 
-## Question
 
 
 
